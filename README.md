@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Danny
 
-<!--
-**danny1984hb-de/danny1984hb-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Softwareentwicklung · Webprojekte · Minecraft
 
-Here are some ideas to get you started:
+Ich beschäftige mich mit der Entwicklung eigener Software und Webprojekte. Dabei lerne ich Schritt für Schritt dazu und teile hier nach und nach meine Projekte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Meine Themen
+
+- Java und Softwareentwicklung
+- PHP und Laravel
+- Websites und CMS
+- Minecraft-Plugins und Serverprojekte
+
+## 🛠️ Werkzeuge
+
+Java · PHP · Laravel · Git · GitHub
+
+## 🚧 Aktuell
+
+Ich baue meine Entwicklungsumgebung weiter aus und arbeite an Lern- und Praxisprojekten.
+
+## 🎯 Mein Ziel
+
+Ich möchte praktische Lösungen entwickeln, meine Fähigkeiten erweitern und meine Projekte gut dokumentieren.
+
+Danke, dass du vorbeischaust! 🙂
